@@ -1,5 +1,5 @@
 <h1 align="center">Important Notes</h1>
-<h3 align="center">Important Stl</h3>
+<h3 align="center">Important STL</h3>
 
 <ol><b>Input/Output:</b></ol>
 <li>printf(): Formatted output to the console.

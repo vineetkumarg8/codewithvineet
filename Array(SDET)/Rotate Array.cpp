@@ -1,7 +1,7 @@
 // APPROACH 1 : Rotate k times
 
 // Rotate all the elements by 1 position k times.
-// Time Complexity : O()
+// Time Complexity : O(n)
 
 // Space Complexity : O(1)
 class Solution {

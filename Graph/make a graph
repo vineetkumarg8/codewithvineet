@@ -1,4 +1,4 @@
-(* class solution{
+class solution{
 public:
   Bool canfinish(int numCourses,  vector<vector<int>>& prerequisites){
   //graph banao
@@ -12,4 +12,4 @@ public:
          }
          return solve(adj);
    }
-}; *)
+};
